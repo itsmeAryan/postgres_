@@ -1,5 +1,5 @@
 const obj = {
-  data: "resume",
+  data: "resume good",
   arr: [
     {
       name: "tako",
